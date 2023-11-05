@@ -1,0 +1,9 @@
+.gradient-1:hover{
+    background-image: linear-gradient(to right, #f18383, #EB3333);
+  }
+
+.reales{
+    color: #EB3333;
+    font-weight: bold;
+}
+
